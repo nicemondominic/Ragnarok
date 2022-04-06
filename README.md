@@ -85,13 +85,13 @@ install all packages and if any problem with is...install 'request' package.
 
 nicemondominic - [Telegram](https://t.me/nicemondominic) - nicemondominic@gmail.com
 
-Project Link: [https://github.com/nicemondominic/Ragnarok](https://github.com/nicemondominic/Ragnarok
+Project Link: [https://github.com/nicemondominic/Ragnarok](https://github.com/nicemondominic/Ragnarok)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-/nicemondominic/Ragnarok](https://github.com/nicemondominic/Ragnarok
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 
