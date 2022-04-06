@@ -56,7 +56,7 @@ Here's why:
 
 This section should list any major frameworks i used for making my bot.
 
-* [React.js](https://reactjs.org/)
+* [Node.js](https://nodejs.org/en/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
