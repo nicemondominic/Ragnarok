@@ -440,5 +440,5 @@ client.on("message", message => {
   }
 });
 client.login(config.token)
-ig.token)
-gin(config.token)
+
+
