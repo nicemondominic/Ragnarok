@@ -47,6 +47,11 @@ Here's why:
 * You shouldn't be doing the same tasks over 
 * This bot code is based on node js
 
+![issues](https://img.shields.io/github/issues/nicemondominic/Ragnarok?style=for-the-badge)
+
+![forks](https://img.shields.io/github/forks/nicemondominic/Ragnarok?style=for-the-badge)
+
+![stars](https://img.shields.io/github/stars/nicemondominic/Ragnarok?style=for-the-badge)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -76,7 +81,8 @@ install all packages and if any problem with is...install 'request' package.
    ```
 2. Give proper credentials in config.json 
 3. Install the dependencies
-4. Run the index.js 
+   use   `npm install`
+4. Run the index.js  `node index.js`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
